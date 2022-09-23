@@ -37879,15 +37879,15 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-container-layout.u-container-layout.u-custom-color-6:before,
         .u-table-alt-custom-color-6 tr:nth-child(even)
         {
-            color: #111111;
-            background-color: #eadff7;
+            color: #ffffff;
+            background-color: #00bcff;
         }
 
         .u-button-style.u-custom-color-6,
         .u-button-style.u-custom-color-6[class*="u-border-"]
         {
-            color: #111111 !important;
-            background-color: #eadff7 !important;
+            color: #ffffff !important;
+            background-color: #00bcff !important;
         }
 
         .u-button-style.u-custom-color-6:hover,
@@ -37901,8 +37901,8 @@ a.u-link.u-text-hover-grey-90:hover {
         li.active > .u-button-style.u-button-style.u-custom-color-6,
         li.active > .u-button-style.u-button-style.u-custom-color-6[class*="u-border-"]
         {
-            color: #111111 !important;
-            background-color: #d1b9ee !important;
+            color: #ffffff !important;
+            background-color: #00a9e6 !important;
         }
 
         .u-hover-custom-color-6:hover,
@@ -37926,12 +37926,12 @@ a.u-link.u-text-hover-grey-90:hover {
         li.active > a.u-button-style.u-button-style.u-active-custom-color-6,
         li.active > a.u-button-style.u-button-style.u-active-custom-color-6[class*="u-border-"]
         {
-            color: #111111 !important;
-            background-color: #eadff7 !important;
+            color: #ffffff !important;
+            background-color: #00bcff !important;
         }
 
         a.u-link.u-hover-custom-color-6:hover {
-            color: #eadff7 !important;
+            color: #00bcff !important;
         }
 
         
@@ -38510,14 +38510,14 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-border-custom-color-6,
         .u-separator-custom-color-6:after
         {
-            border-color: #eadff7;
-            stroke: #eadff7;
+            border-color: #00bcff;
+            stroke: #00bcff;
         }
 
         .u-button-style.u-border-custom-color-6
         {
-            border-color: #eadff7 !important;
-            color: #eadff7 !important;
+            border-color: #00bcff !important;
+            color: #00bcff !important;
             background-color: transparent !important;
         }
 
@@ -38525,7 +38525,7 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-button-style.u-border-custom-color-6:focus
         {
             border-color: transparent !important;
-            color: #d1b9ee !important;
+            color: #00a9e6 !important;
             background-color: transparent !important;
         }
 
@@ -38540,18 +38540,18 @@ a.u-link.u-text-hover-grey-90:hover {
         a.u-button-style.u-button-style.active > .u-border-active-custom-color-6,
         li.active > a.u-button-style.u-button-style.u-border-active-custom-color-6
         {
-            color: #eadff7 !important;
-            border-color: #eadff7 !important;
+            color: #00bcff !important;
+            border-color: #00bcff !important;
         }
 
         .u-link.u-border-custom-color-6[class*="u-border-"]
         {
-            border-color: #eadff7 !important;
+            border-color: #00bcff !important;
         }
 
         .u-link.u-border-custom-color-6[class*="u-border-"]:hover
         {
-            border-color: #d1b9ee !important;
+            border-color: #00a9e6 !important;
         }
         
         
@@ -39137,7 +39137,7 @@ a.u-link.u-text-hover-grey-90:hover {
         a.u-button-style.u-text-custom-color-6,
         a.u-button-style.u-text-custom-color-6[class*="u-border-"]
         {
-            color: #eadff7 !important;
+            color: #00bcff !important;
         }
 
         a.u-button-style.u-text-custom-color-6:hover,
@@ -39149,7 +39149,7 @@ a.u-link.u-text-hover-grey-90:hover {
         a.u-button-style.u-button-style.u-text-custom-color-6.active,
         a.u-button-style.u-button-style.u-text-custom-color-6[class*="u-border-"].active
         {
-            color: #d1b9ee !important;
+            color: #00a9e6 !important;
         }
 
         a.u-button-style:hover > .u-text-hover-custom-color-6,
@@ -39175,7 +39175,7 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-popupmenu-items.u-text-hover-custom-color-6 .u-nav-link:hover,
         .u-popupmenu-items.u-popupmenu-items.u-text-active-custom-color-6 .u-nav-link.active
         {
-            color: #eadff7 !important;
+            color: #00bcff !important;
         }
 
         .u-text-custom-color-6 .u-svg-link,
@@ -39184,17 +39184,17 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-button-style.u-button-style.active > .u-text-active-custom-color-6 .u-svg-link,
         .u-text-hover-custom-color-6:focus .u-svg-link
         {
-            fill: #eadff7;
+            fill: #00bcff;
         }
 
         .u-link.u-text-custom-color-6:hover
         {
-            color: #d1b9ee !important;
+            color: #00a9e6 !important;
         }
 
         a.u-link.u-text-hover-custom-color-6:hover
         {
-            color: #eadff7 !important;
+            color: #00bcff !important;
         }
         
         
@@ -39924,13 +39924,13 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-sheet-1 {
-  min-height: 120px;
+  min-height: 124px;
 }
 
 .u-footer .u-image-1 {
   width: 180px;
   height: 45px;
-  margin: 40px auto 0 0;
+  margin: 40px auto;
 }
 
 .u-footer .u-logo-image-1 {
@@ -39938,58 +39938,13 @@ a.u-link.u-text-hover-grey-90:hover {
   height: 100%;
 }
 
-.u-footer .u-social-icons-1 {
-  height: 23px;
-  min-height: 16px;
-  width: 122px;
-  min-width: 94px;
-  white-space: nowrap;
-  margin: -44px 0 60px auto;
-}
-
-.u-footer .u-icon-1 {
-  color: rgb(59, 89, 152) !important;
-}
-
-.u-footer .u-icon-2 {
-  color: rgb(85, 172, 238) !important;
-}
-
-.u-footer .u-icon-3 {
-  color: rgb(197, 54, 164) !important;
-}
-
-.u-footer .u-icon-4 {
-  color: rgb(0, 122, 185) !important;
-}
-
 
 @media (max-width: 767px) {
   .u-footer .u-sheet-1 {
     min-height: 200px;
   }
-
-  .u-footer .u-image-1 {
-    margin-top: 0;
-    margin-left: 230px;
-  }
-
-  .u-footer .u-social-icons-1 {
-    margin-top: 20px;
-    margin-right: auto;
-  }
 }
-@media (max-width: 575px) {
-  .u-footer .u-image-1 {
-    margin-top: 46px;
-    margin-left: auto;
-  }
 
-  .u-footer .u-social-icons-1 {
-    height: 23px;
-    margin-top: 22px;
-  }
-}
 
  /*begin-variables base-font-size*/ 
  html { font-size: 16px; }
